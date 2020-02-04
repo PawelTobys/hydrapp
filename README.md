@@ -1,5 +1,6 @@
 # Project No. 9 - Hydrapp application
-I used JS, Sass and HTLM and I created some animations on the buttons.
+The application which helps to count glasses of water drunk every day.
+Data are stored in localstorage.
 
 ## Table of contents
 * [General info](#general-info)
@@ -7,11 +8,12 @@ I used JS, Sass and HTLM and I created some animations on the buttons.
 * [Link](#link)
 
 ## General info
-Whatever texts you put to textarea if you click a save button they will be storage in a localstorage.
-If you refresh the page you can load the saved text pushing a load button.
+To create this simple application I used JS, CSS and HTML. 
+The application consists of a meter and two buttons 
+that allow you to add or remove a glass of water.
 
 ## Status
 Project is: _finished_
 
 ## Link
-https://paweltobys.github.io/simple-editor/
+https://paweltobys.github.io/hydrapp/
